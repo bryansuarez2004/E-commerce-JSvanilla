@@ -7,7 +7,7 @@ const productos = [
       precio: 49.99,
       descripcion: 'Jeans ajustados con un tono de mezclilla oscuro para un look elegante.',
       quantity: 3,
-      imagen: '/imgs/jean01.jpg',
+      imagen: '/jean01.jpg',
     },
     {
       id: 2,
@@ -15,7 +15,7 @@ const productos = [
       categoria: 'Jeans',
       precio: 59.99,
       descripcion: 'Jeans con un toque desgastado y estilo vintage para un look casual.',
-      imagen:  '/imgs/jean02.jpg',
+      imagen:  '/jean02.jpg',
       quantity: 3,
     },
     {
@@ -24,7 +24,7 @@ const productos = [
       categoria: 'Jeans',
       precio: 44.99,
       descripcion: 'Jeans de pierna recta, clásicos y versátiles para cualquier ocasión.',
-      imagen:  '/imgs/jean03.jpg',
+      imagen:  '/jean03.jpg',
       quantity: 3,
     },
     {
@@ -33,7 +33,7 @@ const productos = [
       categoria: 'Jeans',
       precio: 54.99,
       descripcion: 'Jeans modernos con roturas y rasgaduras para un look atrevido y a la moda.',
-      imagen:  '/imgs/jean04.jpg',
+      imagen:  '/jean04.jpg',
       quantity: 3,
     },
     {
@@ -42,7 +42,7 @@ const productos = [
       categoria: 'Jeans',
       precio: 47.99,
       descripcion: 'Jeans de corte slim con un lavado claro para un estilo fresco y moderno.',
-      imagen:  '/imgs/jean05.jpg',
+      imagen:  '/jean05.jpg',
       quantity: 3,
     },
     {
@@ -51,7 +51,7 @@ const productos = [
       categoria: 'Jeans',
       precio: 49.99,
       descripcion: 'Jeans con tejido elástico para una mayor comodidad durante todo el día.',
-      imagen:  '/imgs/jean06.jpg',
+      imagen:  '/jean06.jpg',
       quantity: 3,
     },
     {
@@ -60,7 +60,7 @@ const productos = [
       categoria: 'Jeans',
       precio: 52.99,
       descripcion: 'Jeans de estilo boyfriend para un look relajado y casual.',
-      imagen:  '/imgs/jean07.jpg',
+      imagen:  '/jean07.jpg',
       quantity: 3,
     },
   
@@ -71,7 +71,7 @@ const productos = [
       categoria: 'Polos',
       precio: 29.99,
       descripcion: 'Polo clásico de algodón para un estilo cómodo y casual.',
-      imagen: '/imgs/polo01.jpg',
+      imagen: '/polo01.jpg',
       quantity: 3,
     },
     {
@@ -80,7 +80,7 @@ const productos = [
       categoria: 'Polos',
       precio: 34.99,
       descripcion: 'Polo con diseño de rayas para un toque elegante.',
-      imagen: '/imgs/polo02.webp',
+      imagen: '/polo02.webp',
       quantity: 3,
     },
     {
@@ -89,7 +89,7 @@ const productos = [
       categoria: 'Polos',
       precio: 39.99,
       descripcion: 'Polo deportivo con tejido transpirable para actividades activas.',
-      imagen: '/imgs/polo03.webp',
+      imagen: '/polo03.webp',
       quantity: 3,
     },
     {
@@ -98,7 +98,7 @@ const productos = [
       categoria: 'Polos',
       precio: 32.99,
       descripcion: 'Polo con manga larga para un estilo versátil.',
-      imagen: '/imgs/polo04.webp',
+      imagen: '/polo04.webp',
       quantity: 3,
     },
     {
@@ -107,7 +107,7 @@ const productos = [
       categoria: 'Polos',
       precio: 37.99,
       descripcion: 'Polo con logotipo bordado para un toque distintivo.',
-      imagen: '/imgs/polo05.jpg',
+      imagen: '/polo05.jpg',
       quantity: 3,
     },
   
@@ -118,7 +118,7 @@ const productos = [
       categoria: 'Camisas',
       precio: 44.99,
       descripcion: 'Camisa de lino ligera y casual para días cálidos.',
-      imagen: '/imgs/camisa01.jpg',
+      imagen: '/camisa01.jpg',
       quantity: 3,
     },
     {
@@ -127,7 +127,7 @@ const productos = [
       categoria: 'Camisas',
       precio: 49.99,
       descripcion: 'Camisa a cuadros clásica para un estilo atemporal.',
-      imagen: '/imgs/camisa02.jpg',
+      imagen: '/camisa02.jpg',
       quantity: 3,
     },
     {
@@ -136,7 +136,7 @@ const productos = [
       categoria: 'Camisas',
       precio: 54.99,
       descripcion: 'Camisa de vestir elegante para ocasiones formales.',
-      imagen: '/imgs/camisa03.jpg',
+      imagen: '/camisa03.jpg',
       quantity: 3,
     },
     {
@@ -145,7 +145,7 @@ const productos = [
       categoria: 'Camisas',
       precio: 39.99,
       descripcion: 'Camisa de denim moderna para un look informal y a la moda.',
-      imagen: '/imgs/camisa04.webp',
+      imagen: '/camisa04.webp',
       quantity: 3,
     },
     {
@@ -154,7 +154,7 @@ const productos = [
       categoria: 'Camisas',
       precio: 47.99,
       descripcion: 'Camisa con estampado floral para un toque fresco y primaveral.',
-      imagen: '/imgs/camisa05.webp',
+      imagen: '/camisa05.webp',
       quantity: 3,
     },
     {
@@ -163,7 +163,7 @@ const productos = [
       categoria: 'Camisas',
       precio: 42.99,
       descripcion: 'Camisa de manga corta con un práctico bolsillo en el pecho.',
-      imagen: '/imgs/camisa06.jpg',
+      imagen: '/camisa06.jpg',
       quantity: 3,
     },
     {
@@ -172,7 +172,7 @@ const productos = [
       categoria: 'Camisas',
       precio: 49.99,
       descripcion: 'Camisa vaquera con cierre de botones para un look casual.',
-      imagen: '/imgs/camisa07.jpg',
+      imagen: '/camisa07.jpg',
       quantity: 3,
     },
   ];

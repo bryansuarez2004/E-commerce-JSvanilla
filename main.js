@@ -8,6 +8,9 @@ function traerDatos() {
     return productos
 }
 function pintarProductos(res){
+  console.log(productos)
+  console.log(res)
+
     document.querySelector('#app').innerHTML = ''
     res.forEach((element) => {
         document.querySelector('#app').innerHTML += `
@@ -247,9 +250,9 @@ function modalDelProducto (res ){
               element.addEventListener('click', ()=>{
                 
                 const ultimoIndice = element.src.lastIndexOf('/');
-                const penultimoIndice = element.src.lastIndexOf('/', ultimoIndice - 1);
-                let imgParaBuscarProducto = element.src.slice(penultimoIndice)
-
+                
+                let imgParaBuscarProducto = element.src.slice(ultimoIndice)
+                console.log(imgParaBuscarProducto)
 
                 let productoEncontrado = res.find((element)=>{
                      return element.imagen === imgParaBuscarProducto
