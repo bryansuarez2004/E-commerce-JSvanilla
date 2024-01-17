@@ -121,7 +121,7 @@ img{
   display: flex;
   flex-direction: column;
   justify-content: start;
-  gap: 30px;
+  gap: 29px;
   
   font-size: 3rem;
 }
